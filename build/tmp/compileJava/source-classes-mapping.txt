@@ -1,0 +1,10 @@
+com/yuni/cus/Customer.java
+ com.yuni.cus.Customer
+com/yuni/stu/Student.java
+ com.yuni.stu.Student
+com/yuni/stu/Scoring.java
+ com.yuni.stu.Scoring
+com/yuni/cus/List.java
+ com.yuni.cus.List
+com/yuni/stu/Gstu.java
+ com.yuni.stu.Gstu
