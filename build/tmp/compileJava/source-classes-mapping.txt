@@ -1,10 +1,26 @@
 com/yuni/cus/Customer.java
  com.yuni.cus.Customer
+com/yuni/box/Box.java
+ com.yuni.box.Box
 com/yuni/stu/Student.java
  com.yuni.stu.Student
 com/yuni/stu/Scoring.java
  com.yuni.stu.Scoring
-com/yuni/cus/List.java
- com.yuni.cus.List
+com/yuni/box/Box3.java
+ com.yuni.box.Box3
+com/yuni/box/Test.java
+ com.yuni.box.Test
 com/yuni/stu/Gstu.java
  com.yuni.stu.Gstu
+com/yuni/box/Box5.java
+ com.yuni.box.Box5
+com/yuni/stu/Mailer.java
+ com.yuni.stu.Mailer
+com/yuni/cus/Scus.java
+ com.yuni.cus.Scus
+com/yuni/cus/List.java
+ com.yuni.cus.List
+com/yuni/racing/Horse.java
+ com.yuni.racing.Horse
+com/yuni/racing/Racing.java
+ com.yuni.racing.Racing
