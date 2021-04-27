@@ -2,9 +2,9 @@ package com.yuni.box;
 
 public class Box5 extends Box{
     public Box5() {
-        length = 30;
-        width = 30;
-        height = 30;
+        length = 50;
+        width = 50;
+        height = 50;
     }
 
     public String getName() {
