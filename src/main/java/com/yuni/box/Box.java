@@ -1,6 +1,7 @@
 package com.yuni.box;
 
 public class Box {
+    String name;
     int length;
     int width;
     int height;
