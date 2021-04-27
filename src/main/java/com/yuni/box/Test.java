@@ -4,11 +4,11 @@ import java.util.Scanner;
 
 public class Test {
     public static void main(String[] args){
-        Box3 box3 = new Box3();
+        /*Box3 box3 = new Box3();*/
         Box[] boxes = {new Box1(),new Box2(), new Box3(),new Box4(),new Box5() };
-        int length =5;
-        int width =10;
-        int height =20;
+        int length =15;
+        int width =20;
+        int height =25;
         for (Box box:boxes
              ) {if(box.validate(length,width,height)){
                  System.out.println(box.name );

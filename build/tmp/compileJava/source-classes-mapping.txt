@@ -24,11 +24,11 @@ com/yuni/box/Box1.java
  com.yuni.box.Box1
 com/yuni/box/Box4.java
  com.yuni.box.Box4
-com/yuni/box/Test.java
- com.yuni.box.Test
+com/yuni/box/Box3.java
+ com.yuni.box.Box3
 com/yuni/box/Box5.java
  com.yuni.box.Box5
 com/yuni/box/Box2.java
  com.yuni.box.Box2
-com/yuni/box/Box3.java
- com.yuni.box.Box3
+com/yuni/box/Test.java
+ com.yuni.box.Test
