@@ -8,6 +8,8 @@ public class Box {
         super();
     }
     public boolean validate(int a, int b, int c) {
-        return (a <= length && b <= width && c <= height);
+        if (a <= length && b <= width && c <= height) {
+            return true;
+        }else return false;
     }
 }
