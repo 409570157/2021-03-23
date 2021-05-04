@@ -16,5 +16,6 @@ public class Array {
         list.add(true);
         Student student = new Student();
         list.add(student);
+        String name = (String) list.get(0);
     }
 }
